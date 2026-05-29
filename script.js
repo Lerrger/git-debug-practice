@@ -1,1 +1,1 @@
-"// Initial script" 
+alert("Hi");
