@@ -1,1 +1,2 @@
-"// Initial script" 
+alert("Hi");
+console.log("Hello");
